@@ -16,6 +16,6 @@ public class FluxAndMonoTest {
         stringFlux
                 .subscribe(System.out::println,
                         (e) -> System.err.println("Exception is" + e)
-                ,() -> System.out.println("completed"));
+                ,() -> System.out.println("Completed"));
     }
 }
