@@ -1,4 +1,4 @@
-package com.reactivespring.reactivespring.controller;
+package com.reactivespring.reactivespring.fluxandmonoplayground;
 
 import org.junit.Test;
 import reactor.core.publisher.Flux;
